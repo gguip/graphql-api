@@ -1,1 +1,1 @@
-"# graphql-api" 
+GraphQL with Type GraphQL to Study
